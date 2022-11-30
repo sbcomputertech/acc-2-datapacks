@@ -1,0 +1,18 @@
+Criteria:
+- Legend of Zelda style dungeon
+- Themed around water
+  = Water & ice used to progress
+  = difficult hehe
+- Puzzle themed around water
+- A room with no resource/datapacks
+- A boss that requires something from in the dungeon to beat it
+- Possible to disable music
+
+Judging:
+- Design & aesthetics
+- Quality & uniqueness of puzzle
+- Quality & uniquenes of boss
+- Overall fairness
+
+Ideas:
+- Jigsaw block generated rooms
