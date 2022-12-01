@@ -48,7 +48,7 @@
         }
       },
       {
-        "weight": 100,
+        "weight": 150,
         "element": {
           "location": "reddust9:tunnel-blackstone-end-1",
           "processors": "minecraft:empty",
