@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+		{
+			"rolls": 2,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"weight": 1,
+					"name": "minecraft:carrot",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": 5,
+							"add": true
+						}
+					]
+				},
+				{
+					"type": "minecraft:tag",
+					"weight": 1,
+					"name": "reddust9:leather_armor",
+					"expand": false,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": 1,
+							"add": true
+						}
+					]
+				}
+			]
+		}
+	]
+}

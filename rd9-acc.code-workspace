@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "rd9-acc"
+		},
+		{
+			"path": "rd9-scripts"
 		}
 	],
 	"settings": {}

@@ -1,0 +1,60 @@
+{
+    "name": "reddust9:bs_corridoor",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 100,
+        "element": {
+          "location": "reddust9:tunnel-blackstone-straight",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 100,
+        "element": {
+          "location": "reddust9:tunnel-blackstone-bend-left",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 100,
+        "element": {
+          "location": "reddust9:tunnel-blackstone-bend-right",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 100,
+        "element": {
+          "location": "reddust9:tunnel-blackstone-junc-3",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 100,
+        "element": {
+          "location": "reddust9:tunnel-blackstone-junc-4",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      },
+      {
+        "weight": 100,
+        "element": {
+          "location": "reddust9:tunnel-blackstone-end-1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        }
+      }
+    ]
+  }
